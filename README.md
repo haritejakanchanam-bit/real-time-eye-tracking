@@ -104,7 +104,7 @@ eye_tracking/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/real-time-eye-tracking.git
+git clone https://github.com/haritejakanchanam-bit/real-time-eye-tracking.git
 cd real-time-eye-tracking
 ```
 
@@ -161,7 +161,7 @@ python test.py
 ## 👨‍💻 Author
 
 **Kanchanam Hari Teja**
-- 🐙 GitHub: [@your-username](https://github.com/)
+- 🐙 GitHub: [@haritejakanchanam-bit](https://github.com/haritejakanchanam-bit)
 - 💼 LinkedIn: [Kanchanam Hari Teja](https://www.linkedin.com/in/)
 - 📧 Email: [haritejakanchanam@gmail.com](mailto:haritejakanchanam@gmail.com)
 
